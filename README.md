@@ -11,6 +11,8 @@
 👉 **[おもちゃ修理・マイコン換装 報告フォームからカルテを投稿する](https://github.com/ToyDr-W/PUYA_orgel_SW_BTL/issues)**
 
 <p align="center">
+<br>
+<br>
   <a href="https://youtu.be/nDzyxNxgCoU?si=-bdgiRvxjjMFzNJV">
  <img src="https://github.com/user-attachments/assets/65468f8d-1609-4c43-92fb-1ea15366466a" alt="260930_prototype" width="45%">
        <br>▶️ YouTubeで動作確認動画を再生する
