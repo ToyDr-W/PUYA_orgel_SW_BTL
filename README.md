@@ -28,6 +28,23 @@
 * **`orgel_SW_F002A_8_BTL`**: 省スペースな8ピンパッケージを使用し、スイッチ切り替えとBTL駆動を両立した小型おもちゃ向けモデル。
 * **`orgel_SW_F002A_16_BTL`**: 16ピンパッケージを使用し、複数スイッチやセンサー制御、LED演出などを追加しやすい拡張性の高いモデル。
 
+
+> [!NOTE]
+> ### 📥 最新データのダウンロードについて（v1.2.0正式リリースまで）
+> 開発元（名張市つつじが丘おもちゃ病院様）の公開ダウンロードファイルは随時更新されます。次のアップデートがあったときは、本リポジトリへの反映は しばらく様子を見て、安定後に **v1.2.0（安定版）** としてリリース予定です。
+> 
+> それまでの間、最新の回路図およびプログラム一式をダウンロードするには、
+> [ここをクリックしてください。 ⬇️](https://github.com/ToyDr-W/PUYA_orgel_SW_BTL/archive/refs/heads/main.zip)
+> ダウンロード（9.0 MBのZIPファイル）が直ちに開始されます。
+>
+> ---
+>
+> ### 📥 Downloading the Latest Data (Prior to v1.2.0 Official Release)
+> The file made available for download by the developer (Nabari City Tsutsujigaoka Toy Hospital) is updated periodically. When a new update is released, it will not be immediately incorporated into this repository; instead, we will monitor it for a while, and once it has proven stable, we plan to release it as **v1.2.0 (stable version)**.
+> 
+> In the meantime, [please click here to download ⬇️](https://github.com/ToyDr-W/PUYA_orgel_SW_BTL/archive/refs/heads/main.zip) the latest circuit diagrams and the complete set of programs. The download (9.0 MB ZIP file) will begin immediately.
+> 
+
 ---
 
 ## 🎵 本プロジェクトの特徴と魅力
